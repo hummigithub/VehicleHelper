@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "*.layout": "xml",
+        "*.paa": "binary"
+    },
+    "editor.formatOnSave": false
+}

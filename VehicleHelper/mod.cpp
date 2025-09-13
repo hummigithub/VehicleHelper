@@ -1,0 +1,12 @@
+name = "VehicleHelper";
+picture = "";
+logo = "";
+logoSmall = "";
+logoOver = "";
+tooltip = "VehicleHelper - Testmod für Ingame Menü";
+overview = "VehicleHelper - Beispielmod zur Demonstration eines CF gebundenen Menüs";
+action = "";
+author = "deinName";
+authorID = "0";
+version = "0.1";
+inputs = "VehicleHelper/inputs/vehiclehelper_inputs.xml";
