@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+  <widgets>
+    <PanelWidget name="panel_root" x="0.30" y="0.22" w="0.40" h="0.52" color="#262626CC" z="0">
+      <!-- Wenn du keine Textur hast: entferne das ImageWidget oder lege eine .paa/.edds an -->
+      <ImageWidget name="border_img" src="VehicleHelper/GUI/textures/border_blue_gray.paa" x="0" y="0" w="1" h="1" stretch="1" z="1" />
+
+      <TextWidget name="title_text" x="0.05" y="0.03" w="0.9" h="0.08" text="VehicleHelper" font="Zeppelin32" color="#A7D8FF" z="2" />
+
+      <ButtonWidget name="btn_action1" x="0.10" y="0.20" w="0.80" h="0.12" text="Aktion 1" color="#D9D9D9" z="2" />
+      <ButtonWidget name="btn_action2" x="0.10" y="0.36" w="0.80" h="0.12" text="Aktion 2" color="#D9D9D9" z="2" />
+
+      <ButtonWidget name="btn_close" x="0.74" y="0.86" w="0.16" h="0.10" text="Schließen" color="#CFCFCF" z="2" />
+    </PanelWidget>
+  </widgets>
+</layout>

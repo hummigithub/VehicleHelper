@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modded_inputs>
+  <inputs>
+    <actions>
+      <input name="VH_OpenMenu" loc="VH_OPEN_MENU" visible="true" />
+    </actions>
+  </inputs>
+</modded_inputs>
